@@ -59,12 +59,11 @@ body {
 #slider{
     background-color: mediumblue;
     width: 100%;
-    height: 500px;
+    height: 800px;
     text-align: center;
 }
-.item{
+img{
     height: 500px;
-    width: 1000px;
 }
 #slide{
     text-align: center;
